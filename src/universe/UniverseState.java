@@ -1,0 +1,2 @@
+package universe;
+interface UniverseState {}
